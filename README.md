@@ -17,9 +17,35 @@
 <br>
 
 #### ☁️ Hosting  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <a href="https://perfil-deyvi.web.app/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  </a>
+  &nbsp;&nbsp;
+</p>
+<p align="center">
+  <a href="https://perfil-deyvi.web.app/" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFCA28&center=true&vCenter=true&width=435&lines=%F0%9F%91%89+Click+this!;Visit+my+Firebase+Portfolio" alt="Click this!"/>
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFCA28&center=true&vCenter=true&width=435&lines=%F0%9F%91%89+Click+this!;Visit+my+Firebase+Portfolio)](https://perfil-deyvi.web.app/)
+<br>
+<div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/deyvizelada" target="_blank">
+  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/zelada_deyvi/" target="_blank">
+  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:deyvizelada03@gmail.com" >
+  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+  
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -73,3 +99,5 @@
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+  
+<br>
